@@ -11,4 +11,4 @@ export const App = () => (
     </React.Fragment>
 );
 
-AppRegistry.registerComponent('albums', () => App);
+AppRegistry.registerComponent('reactnativebj', () => App);

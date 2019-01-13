@@ -1,4 +1,4 @@
-package com.albums;
+package com.reactnativebj;
 
 import android.app.Application;
 
