@@ -13,7 +13,6 @@ export const AlbumDetail = ({ album }) => {
         headerTextStyle,
         imageStyle,
     } = styles;
-    console.log(album);
     return (
         <Card>
             <CardSection>
